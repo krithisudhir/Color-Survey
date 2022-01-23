@@ -1,2 +1,2 @@
-# Data_Analytics
-This repository contains code files associated with their respective data analysis guides and tutorials published on Medium.com or YouTube
+# Color Survey
+This repository contains the CSV and Python Notebook associated with the data analysis guide published on Medium.com/@krithisudhir
